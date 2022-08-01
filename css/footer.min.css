@@ -1,0 +1,34 @@
+.fa-brands, .fa-up-long {
+  font-size: 20px;
+  color: #fff;
+  display: inline-block;
+  border-radius: 50%;
+  box-shadow: 0 0 3px #fff;
+  padding: 8px 10.8px;
+  transition: all 0.1s linear;
+}
+.fa-brands:hover, .fa-up-long:hover {
+  background: #fff;
+  color: #0072b1;
+}
+
+.fa-up-long:hover {
+  background: #fff;
+  color: #212121;
+}
+
+footer {
+  padding: 35px 0;
+  margin-top: 100px;
+  background: #212121;
+}
+
+.footer__innner {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer__inner-date {
+  color: #fff;
+  font-size: 20px;
+}

@@ -1,0 +1,45 @@
+.about {
+  padding: 100px 0;
+}
+
+.about-title {
+  text-align: center;
+}
+.about-title h1 {
+  text-transform: uppercase;
+}
+
+.about-info {
+  margin: 40px 0;
+  text-align: center;
+  font-size: 18px;
+}
+.about-info span {
+  font-weight: 600;
+}
+
+.about-cv {
+  text-align: center;
+}
+.about-cv a {
+  color: #fff;
+  text-transform: uppercase;
+  background: #212121;
+  font-weight: 600;
+  font-size: 22px;
+  padding: 12px 25px;
+  border: 1px #212121 solid;
+  transition: all 0.1s linear;
+}
+.about-cv a:hover {
+  color: #212121;
+  background: #fff;
+}
+
+@media (max-width: 390px) {
+  .about-cv a {
+    display: block;
+    text-align: center;
+    width: 100%;
+  }
+}
