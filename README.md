@@ -7,7 +7,7 @@ This is my portfolio website created using Gulp, HTML, SCSS, and JavaScript. The
 * Gulp
 # Getting Started:
 1. Clone the repository.
-2. The project is fully compiled and ready. All you have to do is open `index.html` or just [visiting website](https://joulence.github.io/portfolio/)
+2. The project is fully compiled and ready. All you have to do is open `index.html` or just [visit website](https://joulence.github.io/portfolio/)
 # Features:
 * Responsive design.
 * Projects section to showcase my work.
